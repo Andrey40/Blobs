@@ -1,0 +1,9 @@
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Blobs_exam.exe.config
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\obj\Debug\Blobs_exam.csprojResolveAssemblyReference.cache
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Blobs_exam.exe
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Blobs_exam.pdb
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Microsoft.Owin.dll
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Owin.dll
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\bin\Debug\Microsoft.Owin.xml
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\obj\Debug\Blobs_exam.exe
+c:\users\andrey40\documents\visual studio 2015\Projects\Blobs_exam\Blobs_exam\obj\Debug\Blobs_exam.pdb
